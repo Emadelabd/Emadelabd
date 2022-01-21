@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Privacy in Deep learing
 - 📫 How to reach me
-emadelabd@gmail.com
+emadqap@gmail.com
 
 <!---
 Emadelabd/Emadelabd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

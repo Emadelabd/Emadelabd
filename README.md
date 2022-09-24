@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Emadelabd
-- 👀 I’m interested in Differntial privacy in deep learning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Privacy in Deep learing
+- 👀 I’m interested in Differntial Privacy in deep learning
+- 💞️ I’m looking to collaborate on Privacy in Deep learning
 - 📫 How to reach me
 emadqap@gmail.com
 
